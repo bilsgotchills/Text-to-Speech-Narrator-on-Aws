@@ -23,7 +23,7 @@
 
 # Project Blog
 I  have documented the full step-by-step guide here:
-👉 Read Blog Post
+👉 Read Blog post --- https://multi-tier-aws-project.blogspot.com/2025/10/text-to-speech-narrator-on-aws.html
 
 ## Notes
 -Lambda code is adapted with help from AWS SDK documentation  and AI assistance.
